@@ -1,0 +1,23 @@
+# Data
+data/raw/
+data/processed/
+models/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Byte-compiled
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
